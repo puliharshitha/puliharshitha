@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @puliharshitha
-- 👀 I’m interested in front-end , UI/UX, Game Development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in front-end , UI/UX, Game Development. 
 - 💞️ I’m looking to collaborate to Create Websites, Games.
 - 📫 How to reach me ...
 - ⚡ Fun fact: I do Animations, indie games etc......
